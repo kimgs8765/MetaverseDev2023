@@ -1,4 +1,4 @@
-Electric Scooter driving and safety training simulation using VR
+# Electric Scooter driving and safety training simulation using VR
 
 This project is made for applying to 2023MetaverseDev (메타버스 경진대회) in Korea.
 You can check the information about the contest throught the URL below.
